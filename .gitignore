@@ -24,5 +24,8 @@ dist-ssr
 *.sw?
 
 # My stuff, packages and files
+App.tsx
 components
 public
+hooks
+router.tsx
