@@ -13,11 +13,11 @@
 
 </div>
 
-## Features example
+## Features
 
 - ✅ Light/dark mode toggle
-- Live previews
-- Fullscreen mode
+- ✅ React route navigation
+- Free Epic games Cards
 - Cross platform
 
 <div align="center">
