@@ -1,7 +1,7 @@
-import Card from "../components/Main/Card";
+import CardsContainer from "../components/Card/CardsContainer";
 
 export default function FreeGames(){
   return (
-    <Card/>
+    <CardsContainer/>
   )
 }

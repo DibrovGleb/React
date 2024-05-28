@@ -1,4 +1,4 @@
-import ErrorBlock from "../components/Error/ErrorBlock";
+import ErrorBlock from "../components/Error/ErrorRoute";
 
 export default function ErrorPage() {
   return (
