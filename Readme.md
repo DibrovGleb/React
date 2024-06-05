@@ -17,13 +17,14 @@
 
 - ✅ Light/dark mode toggle
 - ✅ React route navigation
-- Free Epic games Cards
+- ✅ Free Epic games Cards
+- ✅ Countdown timer
 - Cross platform
 
 <div align="center">
 
 ## Screenshot
 
-![App Screenshot](https://i.imgur.com/HIOmHJ1.png)
+![App Screenshot](https://i.imgur.com/tPt8Mt6.png)
 
 </div>
